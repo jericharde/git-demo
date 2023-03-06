@@ -1,0 +1,6 @@
+1.git init 初始化
+2.git status 查看当前在哪个分支
+3.git rm --cached 文件名。删除暂存区的文件
+4.git commit -m "第一版本" 提交本地库
+5.git reflow 查看过往版本
+6.git log 查看详细版本信息
