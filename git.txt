@@ -4,9 +4,14 @@
 4.git commit -m "第一版本" 提交本地库
 5.git reflow 查看过往版本
 6.git log 查看详细版本信息
+<<<<<<< HEAD
 7.git reset --hard 版本号  穿越版本号
 8.git branch 分支名  创建分支
 9.git branch -v 查看分支
 10.git checkout 分支名 切换分支
 11.git merge 分支名 把指定的分支合并到当前分支上
 12.hahahah 
+=======
+7.11111
+8.xixixixi
+>>>>>>> hot-fix
