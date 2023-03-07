@@ -11,4 +11,4 @@
 11.git merge 分支名 把指定的分支合并到当前分支上
 12.git remote add 名字 链接。创建别名
 13.git remote -v。查看当前的别名
-14.
+14.这是我在github上修改的文字
